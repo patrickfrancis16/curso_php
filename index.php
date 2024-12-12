@@ -27,6 +27,13 @@
                     <h3>Tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int"> Tipos Inteiros</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float"> Tipos Float</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritimeticas"> Aritiméticas</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia"> Desafio Precedencia</a></li></a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=string"> Tipos String</a></li></a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_string"> Desafio String</a></li></a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=booleano"> Tipos Booleano</a></li></a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=conversoes"> Conversões</a></li></a></li>
                        
                 </div>
             </nav>
