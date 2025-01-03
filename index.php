@@ -34,7 +34,21 @@
                         <li><a href="exercicio.php?dir=tipos&file=desafio_string"> Desafio String</a></li></a></li>
                         <li><a href="exercicio.php?dir=tipos&file=booleano"> Tipos Booleano</a></li></a></li>
                         <li><a href="exercicio.php?dir=tipos&file=conversoes"> Conversões</a></li></a></li>
-                       
+                    </ul>   
+                </div>
+                <div class="modulo azul-claro">
+                    <h3>Variaveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico"> Basico</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao"> Desafio Equação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes"> Atribuicões</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao"> Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis"> Variaveis Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis"> Desafio Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia"> Valor Referencia</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes"> Constantes</a></li>
+                        
+                    </ul>   
                 </div>
             </nav>
         </div>
